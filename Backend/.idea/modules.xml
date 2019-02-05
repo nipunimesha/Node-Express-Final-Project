@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Ajax/Ajax.iml" filepath="$PROJECT_DIR$/../Ajax/Ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Expressmodule.iml" filepath="$PROJECT_DIR$/.idea/Expressmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Loging/Loging.iml" filepath="$PROJECT_DIR$/../Loging/Loging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LogingFront/LogingFront.iml" filepath="$PROJECT_DIR$/../LogingFront/LogingFront.iml" />
+    </modules>
+  </component>
+</project>
